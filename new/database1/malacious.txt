@@ -1,0 +1,8 @@
+CREATE TABLE `malacious` (
+  `id` int(11) NOT NULL auto_increment,
+  `mtype` text NOT NULL,
+  `uname` text NOT NULL,
+  `ip` text NOT NULL,
+  `dt` text NOT NULL,
+  PRIMARY KEY  (`id`)
+)

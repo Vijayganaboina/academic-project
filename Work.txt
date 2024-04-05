@@ -1,0 +1,54 @@
+Admin
+
+--- Login
+
+--- View all users and authorize
+
+--- View Friend Request and Response
+
+--- View all un block request and Ub block
+
+--- View all Users Advertisement with rank and rating
+
+--- View all Malacious Users details with IP Address(Those who launch virus files)
+
+--- View all Ad recommended users details(From and To)
+
+--- View ad request users and Calculate number of months that u want to advetise and assign cost like for one month --1000,2 months---2000 etc..
+
+--- View phishing malacious users(those who try to ad without no.Balance)
+
+--- View all bocked users with IP add,Date and Time
+
+--- View no.of malacious and no.of normal users in Chart
+
+--- View all ad ranks in Chart
+
+ 
+
+
+End User
+
+--- Register with Location and Login and Request to un block if u blocked
+
+--- View your profiles with Account Type(Malacious or Normal)
+
+--- Search Friend and Find Friend Request
+
+--- View all Your Friends
+
+--- Create Bank Account,View Account Details,View Mini Statement.
+
+--- Enter your from to To Date and send request to admin to launch Advertisement
+
+--- Add Avertisement Details(Advertisement category,Ad name,Ad desc(atttch file),Ad Date and Time,Compay name,company est.Year)
+
+--- View all your ad details with rank and rating
+
+--- View all your friends ad details and recommend to other friends
+
+
+
+
+
+
